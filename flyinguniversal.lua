@@ -1,5 +1,3 @@
--- LocalScript inside StarterPlayerScripts
-
 local Player = game.Players.LocalPlayer
 local Character = Player.Character
 local HumanoidRootPart = Character:WaitForChild("HumanoidRootPart")
